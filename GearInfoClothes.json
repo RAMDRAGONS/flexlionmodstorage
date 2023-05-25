@@ -7327,6 +7327,38 @@
         "VariationNum": 0,
         "__RowId": "Clt_TLY009"
     },
+	{
+        "AlphaMaskF": "Clt_00",
+        "AlphaMaskM": "Clt_33",
+        "AlphaMaskV1": "",
+        "Brand": "B98",
+        "CaptureModelType": "Male",
+        "Genre0": "Unknown",
+        "Genre1": "Unknown",
+        "HarnessType": "S",
+        "HeadParamSetPath": "",
+        "HowToGet": "Shop",
+        "Id": 3012,
+        "IsHideHarness": false,
+        "IsThinHarness": false,
+        "IsUnisex": false,
+        "LObjParam": "Work/Gyml/LObj_Clt_TLY012_F.spl__LockerObjParam.gyml",
+        "LObjParamM": "Work/Gyml/LObj_Clt_TLY012_M.spl__LockerObjParam.gyml",
+        "Label": "\u30b0\u30ea\u30fc\u30f3\uff34",
+        "Material": "Cloth",
+        "Price": 0,
+        "Rarity": 0,
+        "Season": 0,
+        "Skill": "MainInk_Save",
+        "UrokoPrice": {
+            "BronzeUrokoNum": 0,
+            "GoldUrokoNum": 0,
+            "SilverUrokoNum": 0
+        },
+        "UrokoUnlockLevel": 1,
+        "VariationNum": 0,
+        "__RowId": "Clt_TLY012"
+    },
     {
         "AlphaMaskF": "Clt_34",
         "AlphaMaskM": "Clt_34",
