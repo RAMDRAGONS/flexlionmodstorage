@@ -1279,38 +1279,6 @@
         "VariationNum": 0,
         "__RowId": "Shs_COP103"
     },
-	{
-        "AlphaMaskF": "Shs_03",
-        "AlphaMaskM": "Shs_03",
-        "AlphaMaskV1": "",
-        "Brand": "B97",
-        "CaptureModelType": "Male",
-        "Genre0": "Shoes_RainBoots",
-        "Genre1": "Shoes_Boots",
-        "HarnessType": "S",
-        "HeadParamSetPath": "",
-        "HowToGet": "Shop",
-        "Id": 21004,
-        "IsHideHarness": false,
-        "IsThinHarness": false,
-        "IsUnisex": false,
-        "LObjParam": "Work/Gyml/LObj_Shs_COP104_F.spl__LockerObjParam.gyml",
-        "LObjParamM": "",
-        "Label": "\u30de\u30c3\u30c9\u30e9\u30d0\u30fc",
-        "Material": "Cloth",
-        "Price": 0,
-        "Rarity": 2,
-        "Season": 0,
-        "Skill": "RespawnTime_Save",
-        "UrokoPrice": {
-            "BronzeUrokoNum": 0,
-            "GoldUrokoNum": 0,
-            "SilverUrokoNum": 0
-        },
-        "UrokoUnlockLevel": 1,
-        "VariationNum": 0,
-        "__RowId": "Shs_COP104"
-    },
     {
         "AlphaMaskF": "Shs_00",
         "AlphaMaskM": "Shs_00",
