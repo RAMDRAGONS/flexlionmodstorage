@@ -4223,6 +4223,38 @@
         "VariationNum": 0,
         "__RowId": "Clt_SWT000"
     },
+	{
+        "AlphaMaskF": "Clt_02",
+        "AlphaMaskM": "Clt_02",
+        "AlphaMaskV1": "",
+        "Brand": "B00",
+        "CaptureModelType": "Male",
+        "Genre0": "Unknown",
+        "Genre1": "Unknown",
+        "HarnessType": "S",
+        "HeadParamSetPath": "",
+        "HowToGet": "Shop",
+        "Id": 29500,
+        "IsHideHarness": false,
+        "IsThinHarness": false,
+        "IsUnisex": false,
+        "LObjParam": "Work/Gyml/LObj_Clt_SUP000_F.spl__LockerObjParam.gyml",
+        "LObjParamM": "",
+        "Label": "\u30ab\u30ec\u30c3\u30b8\u30b9\u30a6\u30a7\u30c3\u30c8 \u30b0\u30ec\u30fc",
+        "Material": "Cloth",
+        "Price": 0,
+        "Rarity": 2,
+        "Season": 0,
+        "Skill": "RespawnTime_Save",
+        "UrokoPrice": {
+            "BronzeUrokoNum": 0,
+            "GoldUrokoNum": 0,
+            "SilverUrokoNum": 0
+        },
+        "UrokoUnlockLevel": 1,
+        "VariationNum": 0,
+        "__RowId": "Clt_SUP000"
+    },
     {
         "AlphaMaskF": "Clt_02",
         "AlphaMaskM": "Clt_02",
