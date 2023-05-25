@@ -1247,7 +1247,7 @@
         "VariationNum": 0,
         "__RowId": "Shs_COP101"
     },
-	    {
+	{
         "AlphaMaskF": "Shs_03",
         "AlphaMaskM": "Shs_03",
         "AlphaMaskV1": "",
@@ -1279,8 +1279,7 @@
         "VariationNum": 0,
         "__RowId": "Shs_COP103"
     },
-	},
-	    {
+	{
         "AlphaMaskF": "Shs_03",
         "AlphaMaskM": "Shs_03",
         "AlphaMaskV1": "",
